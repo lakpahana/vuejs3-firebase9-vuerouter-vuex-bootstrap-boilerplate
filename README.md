@@ -1,4 +1,8 @@
-# editor
+# Vue JS 3 + Firebase 9 + Bootstrap 5 Boilerplate
+
+Vuex
+Vue Router
+Firebase Auth (from this tutorial https://www.youtube.com/watch?v=Kc-FbPSdezg)
 
 ## Project setup
 ```
