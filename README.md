@@ -1,9 +1,10 @@
 # Vue JS 3 + Firebase 9 + Bootstrap 5 Boilerplate
 
-Vuex
-Vue Router
-Firebase Auth (from this tutorial https://www.youtube.com/watch?v=Kc-FbPSdezg)
+1. Vuex 
+2. Vue Router  
+3. Firebase Auth (from this tutorial https://www.youtube.com/watch?v=Kc-FbPSdezg)
 
+![alt text](https://i.ibb.co/r2xBg5g/image.png)
 ## Project setup
 ```
 npm install
